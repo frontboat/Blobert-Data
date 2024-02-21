@@ -3632,5 +3632,19 @@
         }
       }
     }
+  },
+  {
+    "tokenId": "279",
+    "traits": {
+      "variant": {
+        "Regular": {
+          "background": "5",
+          "armour": "10",
+          "jewelry": "7",
+          "mask": "25",
+          "weapon": "0"
+        }
+      }
+    }
   }
 ]
