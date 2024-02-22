@@ -3996,5 +3996,467 @@
         }
       }
     }
+  },
+  {
+    "tokenId": "305",
+    "traits": {
+      "variant": {
+        "Regular": {
+          "background": "7",
+          "armour": "10",
+          "jewelry": "4",
+          "mask": "10",
+          "weapon": "40"
+        }
+      }
+    }
+  },
+  {
+    "tokenId": "306",
+    "traits": {
+      "variant": {
+        "Regular": {
+          "background": "7",
+          "armour": "6",
+          "jewelry": "3",
+          "mask": "16",
+          "weapon": "23"
+        }
+      }
+    }
+  },
+  {
+    "tokenId": "307",
+    "traits": {
+      "variant": {
+        "Regular": {
+          "background": "0",
+          "armour": "10",
+          "jewelry": "6",
+          "mask": "13",
+          "weapon": "41"
+        }
+      }
+    }
+  },
+  {
+    "tokenId": "308",
+    "traits": {
+      "variant": {
+        "Regular": {
+          "background": "2",
+          "armour": "10",
+          "jewelry": "5",
+          "mask": "23",
+          "weapon": "34"
+        }
+      }
+    }
+  },
+  {
+    "tokenId": "309",
+    "traits": {
+      "variant": {
+        "Regular": {
+          "background": "6",
+          "armour": "9",
+          "jewelry": "0",
+          "mask": "19",
+          "weapon": "11"
+        }
+      }
+    }
+  },
+  {
+    "tokenId": "310",
+    "traits": {
+      "variant": {
+        "Regular": {
+          "background": "10",
+          "armour": "13",
+          "jewelry": "0",
+          "mask": "15",
+          "weapon": "17"
+        }
+      }
+    }
+  },
+  {
+    "tokenId": "311",
+    "traits": {
+      "variant": {
+        "Regular": {
+          "background": "0",
+          "armour": "6",
+          "jewelry": "7",
+          "mask": "15",
+          "weapon": "2"
+        }
+      }
+    }
+  },
+  {
+    "tokenId": "312",
+    "traits": {
+      "variant": {
+        "Regular": {
+          "background": "9",
+          "armour": "13",
+          "jewelry": "4",
+          "mask": "15",
+          "weapon": "7"
+        }
+      }
+    }
+  },
+  {
+    "tokenId": "313",
+    "traits": {
+      "variant": {
+        "Regular": {
+          "background": "5",
+          "armour": "14",
+          "jewelry": "3",
+          "mask": "10",
+          "weapon": "24"
+        }
+      }
+    }
+  },
+  {
+    "tokenId": "314",
+    "traits": {
+      "variant": {
+        "Regular": {
+          "background": "3",
+          "armour": "15",
+          "jewelry": "0",
+          "mask": "15",
+          "weapon": "10"
+        }
+      }
+    }
+  },
+  {
+    "tokenId": "315",
+    "traits": {
+      "variant": {
+        "Regular": {
+          "background": "7",
+          "armour": "1",
+          "jewelry": "0",
+          "mask": "1",
+          "weapon": "8"
+        }
+      }
+    }
+  },
+  {
+    "tokenId": "316",
+    "traits": {
+      "variant": {
+        "Regular": {
+          "background": "2",
+          "armour": "3",
+          "jewelry": "4",
+          "mask": "5",
+          "weapon": "39"
+        }
+      }
+    }
+  },
+  {
+    "tokenId": "317",
+    "traits": {
+      "variant": {
+        "Regular": {
+          "background": "7",
+          "armour": "6",
+          "jewelry": "2",
+          "mask": "3",
+          "weapon": "8"
+        }
+      }
+    }
+  },
+  {
+    "tokenId": "318",
+    "traits": {
+      "variant": {
+        "Regular": {
+          "background": "2",
+          "armour": "6",
+          "jewelry": "0",
+          "mask": "1",
+          "weapon": "10"
+        }
+      }
+    }
+  },
+  {
+    "tokenId": "319",
+    "traits": {
+      "variant": {
+        "Regular": {
+          "background": "6",
+          "armour": "1",
+          "jewelry": "6",
+          "mask": "5",
+          "weapon": "41"
+        }
+      }
+    }
+  },
+  {
+    "tokenId": "320",
+    "traits": {
+      "variant": {
+        "Regular": {
+          "background": "2",
+          "armour": "2",
+          "jewelry": "3",
+          "mask": "5",
+          "weapon": "4"
+        }
+      }
+    }
+  },
+  {
+    "tokenId": "321",
+    "traits": {
+      "variant": {
+        "Regular": {
+          "background": "9",
+          "armour": "11",
+          "jewelry": "6",
+          "mask": "0",
+          "weapon": "27"
+        }
+      }
+    }
+  },
+  {
+    "tokenId": "322",
+    "traits": {
+      "variant": {
+        "Regular": {
+          "background": "6",
+          "armour": "5",
+          "jewelry": "2",
+          "mask": "25",
+          "weapon": "32"
+        }
+      }
+    }
+  },
+  {
+    "tokenId": "323",
+    "traits": {
+      "variant": {
+        "Regular": {
+          "background": "9",
+          "armour": "5",
+          "jewelry": "7",
+          "mask": "2",
+          "weapon": "40"
+        }
+      }
+    }
+  },
+  {
+    "tokenId": "324",
+    "traits": {
+      "variant": {
+        "Regular": {
+          "background": "2",
+          "armour": "3",
+          "jewelry": "0",
+          "mask": "3",
+          "weapon": "37"
+        }
+      }
+    }
+  },
+  {
+    "tokenId": "325",
+    "traits": {
+      "variant": {
+        "Regular": {
+          "background": "3",
+          "armour": "6",
+          "jewelry": "7",
+          "mask": "2",
+          "weapon": "30"
+        }
+      }
+    }
+  },
+  {
+    "tokenId": "326",
+    "traits": {
+      "variant": {
+        "Regular": {
+          "background": "0",
+          "armour": "4",
+          "jewelry": "3",
+          "mask": "9",
+          "weapon": "12"
+        }
+      }
+    }
+  },
+  {
+    "tokenId": "327",
+    "traits": {
+      "variant": {
+        "Regular": {
+          "background": "6",
+          "armour": "7",
+          "jewelry": "3",
+          "mask": "3",
+          "weapon": "31"
+        }
+      }
+    }
+  },
+  {
+    "tokenId": "328",
+    "traits": {
+      "variant": {
+        "Regular": {
+          "background": "7",
+          "armour": "2",
+          "jewelry": "0",
+          "mask": "1",
+          "weapon": "33"
+        }
+      }
+    }
+  },
+  {
+    "tokenId": "329",
+    "traits": {
+      "variant": {
+        "Regular": {
+          "background": "9",
+          "armour": "3",
+          "jewelry": "5",
+          "mask": "9",
+          "weapon": "38"
+        }
+      }
+    }
+  },
+  {
+    "tokenId": "330",
+    "traits": {
+      "variant": {
+        "Regular": {
+          "background": "3",
+          "armour": "15",
+          "jewelry": "3",
+          "mask": "19",
+          "weapon": "33"
+        }
+      }
+    }
+  },
+  {
+    "tokenId": "331",
+    "traits": {
+      "variant": {
+        "Regular": {
+          "background": "8",
+          "armour": "15",
+          "jewelry": "1",
+          "mask": "0",
+          "weapon": "19"
+        }
+      }
+    }
+  },
+  {
+    "tokenId": "332",
+    "traits": {
+      "variant": {
+        "Regular": {
+          "background": "8",
+          "armour": "15",
+          "jewelry": "6",
+          "mask": "3",
+          "weapon": "39"
+        }
+      }
+    }
+  },
+  {
+    "tokenId": "333",
+    "traits": {
+      "variant": {
+        "Regular": {
+          "background": "3",
+          "armour": "7",
+          "jewelry": "0",
+          "mask": "8",
+          "weapon": "26"
+        }
+      }
+    }
+  },
+  {
+    "tokenId": "334",
+    "traits": {
+      "variant": {
+        "Regular": {
+          "background": "6",
+          "armour": "9",
+          "jewelry": "1",
+          "mask": "14",
+          "weapon": "29"
+        }
+      }
+    }
+  },
+  {
+    "tokenId": "335",
+    "traits": {
+      "variant": {
+        "Regular": {
+          "background": "4",
+          "armour": "15",
+          "jewelry": "1",
+          "mask": "20",
+          "weapon": "33"
+        }
+      }
+    }
+  },
+  {
+    "tokenId": "336",
+    "traits": {
+      "variant": {
+        "Regular": {
+          "background": "3",
+          "armour": "14",
+          "jewelry": "3",
+          "mask": "12",
+          "weapon": "33"
+        }
+      }
+    }
+  },
+  {
+    "tokenId": "337",
+    "traits": {
+      "variant": {
+        "Regular": {
+          "background": "2",
+          "armour": "13",
+          "jewelry": "6",
+          "mask": "15",
+          "weapon": "40"
+        }
+      }
+    }
   }
 ]
