@@ -41,9 +41,22 @@ def main():
     data = load_data(file_path)
     token_rarity_scores = calculate_rarity_scores(data)
 
-    # Print or save the rarity scores
-    for token_id, rarity_score in sorted(token_rarity_scores.items(), key=lambda item: item[1], reverse=True):
-        print(f'TokenID: {token_id}, Rarity Score: {rarity_score}')
+    # Sort the rarity scores by highest rarity
+    sorted_rarity_scores = sorted(token_rarity_scores.items(), key=lambda item: item[1], reverse=True)
+
+    # Export the sorted rarity scores to a plain text file
+    output_file_path = '/Users/boat/Projects/Blobert Data/rarityScoresSorted.txt'  # Define the output text file path
+    with open(output_file_path, 'w') as outfile:
+        # Write a header
+        outfile.write("TokenID\tRarity Score\n")
+        outfile.write("-" * 30 + "\n")
+        
+        # Write each token ID and its rarity score in a readable format
+        for token_id, rarity_score in sorted_rarity_scores:
+            outfile.write(f"{token_id}\t{rarity_score}\n")
+
+    # Optionally, print a message to indicate the export is complete
+    print(f'Sorted rarity scores exported to {output_file_path}')
 
 if __name__ == '__main__':
     main()
